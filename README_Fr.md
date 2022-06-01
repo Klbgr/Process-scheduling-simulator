@@ -1,5 +1,5 @@
 # Process Scheduling Simulator
-[English version](https://github.com/Klbgr/Process-scheduling-simulator/README.md)
+[English version](https://github.com/Klbgr/Process-scheduling-simulator/blob/main/README.md)
 
 Ce projet a été réalisé en Licence 3 Informatique, dans le cadre de l'unité d'enseignement de Systèmes d'Exploitation à CY Cergy Paris Université.
 
@@ -40,7 +40,7 @@ Pour nettoyer le répertoire, il y a la commande
 ```
 make clean
 ```
-Le programme à besoin d'un fichier "config.txt" valide, contenant les informations concernant les différents processus à simuler. Pour en savoir plus, veuillez vous référer au [guide utilisateur](https://github.com/Klbgr/Process-scheduling-simulator/Guide_Utilisateur.pdf).
+Le programme à besoin d'un fichier "config.txt" valide, contenant les informations concernant les différents processus à simuler. Pour en savoir plus, veuillez vous référer au [guide utilisateur](https://github.com/Klbgr/Process-scheduling-simulator/blob/main/Guide_Utilisateur.pdf).
 
 ## Structures
 Afin de faciliter la manipulation des différentes données, le programme utilise un certain nombre de structures différentes. 
