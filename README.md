@@ -13,7 +13,7 @@ If one of the executables is missing, it must be installed with the command
 sudo apt install name_of_executable_to_install
 ```
 ### Program
-Pour (re)compile this program, use the command
+To (re)compile this program, use the command
 ```
 make main
 ```
